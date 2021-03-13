@@ -1,0 +1,5 @@
+Currency Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/CFA
+
+Currency Conversion Service
+http://localhost:8100/currency-conversion/from/USD/to/CFA/quantity/10
